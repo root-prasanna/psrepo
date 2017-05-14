@@ -1,0 +1,1000 @@
+  334  sudo odoo.sh
+  335  ls
+  336  sudo rm odoo.sh 
+  337  sudo vi odoo.py
+  338  sudo ping 192.168.1.232
+  339  sudo ssh odoo-test@192.168.1.232
+  340  sudo service ssh status
+  341  sudo service ssh restart
+  342  sudo ssh odoo-test@192.168.1.167
+  343  sudo ssh odoo-prod@192.168.1.128
+  344  sudo ssh odoo-test@192.168.1.128
+  345  ls
+  346  sudo vi nextcloud.conf
+  347  sudo ssh nextadmin@192.168.1.216
+  348  ifconfig
+  349  sudo /etc/init.d/networking restart
+  350  sudo reboot
+  351  sudo /etc/init.d/networking restart
+  352  sudo reboot
+  353  sudo /etc/init.d/networking restart
+  354  sudo poweroff
+  355  ls
+  356  cd labackup/
+  357  ls
+  358  cd backup/
+  359  ls
+  360  cd
+  361  clear
+  362  ls
+  363  cls
+  364  sudo alias clear = cls
+  365  cls
+  366  clear
+  367  ls
+  368  clear
+  369  ls
+  370  dir
+  371  clear
+  372  ls
+  373  sudo scp email.py prasanna@192.168.0.105:/home/prasanna/
+  374  sudo vi /etc/bash.bashrc 
+  375  exit
+  376  sudo gedit
+  377  sudo gedit &
+  378  sudo apt-get update
+  379  sudo apt-get install gadmin-proftpd
+  380  ifconfig
+  381  ls
+  382  ls backup/
+  383  sudo service ssh status
+  384  sudo service ssh start
+  385  sudo service ssh status
+  386  ls
+  387  ls backup/
+  388  ping 192.168.1.191
+  389  ping 192.168.1.190
+  390  ping 192.168.1.217
+  391  ping 192.168.1.190
+  392  sudo /etc/bash.bashrc
+  393  sudo vi /etc/bash.bashrc
+  394  exit
+  395  sudo vi /etc/bash.bashrc
+  396  exit
+  397  ping 192.168.1.217
+  398  ls
+  399  ls -l
+  400  clear
+  401  ping 192.168.1.217
+  402  sudo ssh admin@192.168.1.191
+  403  sudo service ssh start
+  404  sudo service ssh status
+  405  sudo ssh admin@192.168.1.191
+  406  sudo ssh root@192.168.1.217
+  407  sudo vi /etc/rc.local
+  408  sudo service ssh status
+  409  sudo reboot
+  410  sudo servrice status ssh
+  411  sudo servrice ssh status
+  412  sudo service ssh status
+  413  ping 192.168.1.191
+  414  sudo ssh axonadmin@192.168.1.190
+  415  sudo service ssh start
+  416  sudo ssh axonadmin@192.168.1.190
+  417  sudo service ssh status
+  418  sudo ssh axonadmin@192.168.1.190
+  419  ping 192.168.1.190
+  420  exit
+  421  clear
+  422  ls
+  423  clear
+  424  ping 192.168.1.190
+  425  sudo ssh axonadmin@192.168.1.190
+  426  ls
+  427  cat guilink 
+  428  cat pass
+  429  cat odoo.py 
+  430  ls
+  431  cd backup/
+  432  ls
+  433  cd
+  434  cd .ssh/
+  435  ls
+  436  sudo rm id_rsa id_rsa.pub 
+  437  ls
+  438  cd
+  439  sudo service ssh status
+  440  ls
+  441  cd var
+  442  ls
+  443  cd
+  444  sudo rm -rf var
+  445  ls
+  446  ls -l
+  447  sudo chown prasanna:praanna backup
+  448  sudo chown prasanna backup
+  449  ls -l backup
+  450  ls -l | grep backup
+  451  sudo vi odoofromsource
+  452  sudo scp odoofromsource diwap@192.168.1.168:/home/diwap
+  453  ls
+  454  lss
+  455  ls
+  456  clear
+  457  sudo ssh odoo-test@192.168.1.162
+  458  sudo service ssh status
+  459  sudo ssh odoo-test@192.168.1.162
+  460  ping 192.168.1.162
+  461  sudo ssh odoo-test@192.168.1.162
+  462  sudo ssh odoo-test@192.168.1.206
+  463  sudo ssh-keygen
+  464  cd /root/.ssh
+  465  sudo su
+  466  sudo ssh-copy-id -i /root/.ssh/id_rsa.pub axonadmin@192.168.1.190
+  467  sudo ssh axonadmin@192.168.1.190
+  468  sudo su
+  469  sudo ssh-keygen
+  470  cd .ssh
+  471  ls
+  472  cd
+  473  sudo ssh-keygen
+  474  cd .ssh
+  475  ls
+  476  cd
+  477  sudo su
+  478  sudo ssh-copy-id axonadmin@192.168.1.191
+  479  sudo service ssh status
+  480  cd .ssh/
+  481  ls
+  482  cd
+  483  sudo ssh-copy-id axonadmin@192.168.1.190
+  484  sudo ssh axonadmin@192.168.1.190
+  485  sudo ssh-copy-id axonadmin@192.168.1.190
+  486  sudo ssh-copy-id axonadmin@192.168.1.190 -f
+  487  ssh axonadmin@192.168.1.190
+  488  sudo ssh axonadmin@192.168.1.190
+  489  ssh-keygen
+  490  sudo ssh axonadmin@192.168.1.190
+  491  ls
+  492  cd backup/
+  493  ls
+  494  ls -lh
+  495  cd var
+  496  ls
+  497  ls -lh
+  498  cd
+  499  sudo poweroff
+  500  ifconfig
+  501  ping 192.168.2.7
+  502  sudo ssh axonadmin@192.168.2.7
+  503  sudo ssh odoo-test@192.168.2.7
+  504  exit
+  505  sudo ssh axonadmin@192.168.2.3
+  506  sudo service ssh start
+  507  sudo ssh axonadmin@192.168.2.3
+  508  sudo ssh odoo-test@192.168.2.7
+  509  sudo ssh axonadmin@202.63.241.200
+  510  sudo service ssh status
+  511  sudo ssh axonadmin@192.168.2.3
+  512  sudo ssh axonadmin@202.63.241.200
+  513  ping 192.168.2.3
+  514  ping www.google.com
+  515  sudo ssh axonadmin@192.168.2.3
+  516  sudo service ssh start
+  517  sudo ssh axonadmin@192.168.2.3
+  518  ping 192.168.2.3
+  519  ping odoo.lacanepal.com
+  520  sudo ssh axonadmin@192.168.2.3
+  521  clear
+  522  ping 202.63.241.200
+  523  ping 192.168.2.3
+  524  sudo ssh axonadmin@192.168.2.3
+  525  sudo ssh axonadmin@202.63.242.200
+  526  sudo ssh axonadmin@202.63.241.200
+  527  sudo apt-get update
+  528  sudo apt-get install putty
+  529  sudo vi /etc/network/interfaces
+  530  clear
+  531  ifconfig
+  532  clear
+  533  ls
+  534  cd psgit/
+  535  ls
+  536  sudo git remote add origin https://github.com/root-prasanna/psgit.git
+  537  cd
+  538  ls
+  539  cd psgit
+  540  ls
+  541  gitbash
+  542  sudo gitbash
+  543  ls
+  544  sudo git init
+  545  ls
+  546  git status
+  547  ls
+  548  git log
+  549  mkdir abcd
+  550  sudo mkdir abxcd
+  551  ls
+  552  git status
+  553  cd
+  554  git status
+  555  cd psgit/
+  556  sudo git status
+  557  cd
+  558  cd psgit/
+  559  sudo touch bis
+  560  ls
+  561  sudo git status
+  562  sudo git add .
+  563  sudo git status
+  564  sudo git commit -m "first commit"
+  565  sudo git log
+  566  sudo git log -- oneline
+  567  sudo git log --oneline
+  568  sudo git remote add origin https://github.com/root-prasanna/psgit1.git
+  569  sudo git remote add https://github.com/root-prasanna/psgit1.git
+  570  sudo git remote add ps https://github.com/root-prasanna/psgit1.git
+  571  sudo git push ps master
+  572  cd
+  573  psgit
+  574  ping 192.168.1.217
+  575  sudo repolist
+  576  apt list | less
+  577  clear
+  578  ls
+  579  clear
+  580  cd backup/
+  581  ls
+  582  cd var
+  583  ls
+  584  cd ..
+  585  du -sh var
+  586  cd var
+  587  ls -lh
+  588  cd lib/lxd/
+  589  ls
+  590  cd containers/
+  591  ls -lh
+  592  ls
+  593  cd ..
+  594  cd log/lxd/odoo-test/
+  595  ls
+  596  cat lxc.conf 
+  597  cd
+  598  clear
+  599  ls
+  600  sudo apt-get install vlc
+  601  ls
+  602  ping 192.168.100.106
+  603  sudo ssh diwap@192.168.100.106
+  604  sudo ssh root@192.168.0.106
+  605  ping 192.168.0.106
+  606  sudo ssh root@192.168.0.106
+  607  cd .ssh
+  608  ls
+  609  sudo ssh-keygen
+  610  ls
+  611  cat id_rsa.pub 
+  612  cd
+  613  cd psgit/
+  614  ls
+  615  history 
+  616  sudo git remote add origin git@ubuntu-gitlab:root/odoo-project.git
+  617  sudo git remote add odoo git@ubuntu-gitlab:root/odoo-project.git
+  618  sudo git status
+  619  ls
+  620  sudo git .
+  621  sudo add git .
+  622  sudo git add .
+  623  sudo git commit 
+  624  sudo git push -u odoo master
+  625  sudo git init
+  626  sudo git remote add odoo git@ubuntu-gitlab:root/odoo-project.git
+  627  git push -u odoo --all
+  628  ls
+  629  cd
+  630  mkdir odoo-project
+  631  cd odoo-project/
+  632  touch __manifest__.py
+  633  touch __init__.py
+  634  ls
+  635  git init
+  636  git remote add origin git@ubuntu-gitlab:root/odoo-project.git
+  637  git add .
+  638  git commit
+  639  git push -u origin master
+  640  git push -u origin --all
+  641  history 
+  642  cd ..
+  643  cd odoo-project/
+  644  ls
+  645  sudo ssh root@192.168.0.106
+  646  ping 192.168.0.104
+  647  sudo ssh root@192.168.0.106
+  648  ifconfig
+  649  ping prasanna.bis.local
+  650  ping 192.168.0.106
+  651  ping bis.local
+  652  ping 192.168.0.106
+  653  sudo ssh root@192.168.0.106
+  654  sudo apt-get install traceroute
+  655  sudo traceroute 192.168.0.106
+  656  ping bis.local
+  657  sudo vi /etc/resolv.conf 
+  658  ping prasanna.bis.local
+  659  ping www.google.com
+  660  ping prasanna.bis.local
+  661  sudo traceroute 192.168.0.106
+  662  ping prasanna.bis.local
+  663  clear
+  664  sudo traceroute 192.168.0.106
+  665  ping bis.local
+  666  clear
+  667  ping 192.168.0.106
+  668  clear
+  669  traceroute 192.168.0.106
+  670  traceroute 8.8.8.8
+  671  traceroute google.com
+  672  traceroute 192.168.0.106
+  673  traceroute 192.168.0.106 >> out2.txt
+  674  sudo service ssh start
+  675  sudo service ssh status
+  676  ls
+  677  sudo mv out2.txt out3.txt
+  678  ls
+  679  sudo mv out1.txt out2.txt
+  680  ls
+  681  sudo out.txt out2.txt
+  682  sudo mv out.txt out2.txt
+  683  ls
+  684  sudo mv out.txt out1.txt
+  685  ls
+  686  cat out2.txt 
+  687  cat out3.txt 
+  688  ls
+  689  cat out1.txt 
+  690  cat out2.txt 
+  691  cat out3.txt 
+  692  sudo mkdir dns_issue
+  693  sudo mv out1.txt out2.txt out3.txt dns_issue/
+  694  ls
+  695  ls dns_issue/
+  696  cd Pictures/
+  697  ls
+  698  sudo cp dns.png /home/prasanna/dns_issue/
+  699  cd
+  700  ls
+  701  ping prasanna.bis.local
+  702  sudo nslookup prasanna.bis.local
+  703  ping prasanna.bis.local
+  704  ping router.bis.local
+  705  sudo vi /etc/resolv.conf 
+  706  ping prasanna.bis.local
+  707  sudo vi /etc/resolv.conf 
+  708  ping prasanna.bis.local
+  709  sudo vi /etc/resolv.conf 
+  710  ping prasanna.bis.local
+  711  ping bis.local
+  712  ping prasanna.bis.local
+  713  ping bis.local
+  714  ping www.facebook.com
+  715  ping 192.168.0.106
+  716  ping prasanna.bis.local
+  717  sudo ssh root@192.168.0.106
+  718  ifconfig
+  719  ping 192.168.0.106
+  720  ping bis.local
+  721  traceroute 192.168.0.106
+  722  ping 192.168.0.106
+  723  sudo ssh root@192.168.0.106
+  724  ping 192.168.0.106
+  725  sudo apt-get update
+  726  sudo pip install ansible
+  727  sudo apt-get install python-pip
+  728  sudo mkdir ~/ansible-test
+  729  cd ~/ansible-test/
+  730  sudo cat >> inventory <<EOF
+  731  my_odoo ansible_ssh_host=127.0.0.1
+  732  EOF
+  733  ls
+  734  sudo vi inventory
+  735  sudo vi playbook.yml
+  736  ifconfig
+  737  sudo cat /etc/nsswitch.conf 
+  738  sudo ssh admin@192.168.0.105
+  739  sudo service ssh start
+  740  sudo ssh-keygen -f "/root/.ssh/known_hosts" -R 192.168.0.105
+  741  sudo ssh admin@192.168.0.105
+  742  ping bis.local
+  743  ping praanna.bis.local
+  744  ping bis.local
+  745  ansible --version
+  746  apt list ansible
+  747  apt list ansible -a
+  748  sudo pip ansible
+  749  cd /etc/resolvconf/resolv.conf.d/
+  750  vi head 
+  751  sudo vi ehad
+  752  sudo vi head
+  753  cd
+  754  cat /etc/resolv.conf 
+  755  sudo /etc/init.d/networking restart
+  756  cd /etc/resolvconf/resolv.conf.d/
+  757  vi head
+  758  sudo vi head
+  759  cd
+  760  sudo /etc/init.d/networking restart
+  761  cat /etc/resolv.conf 
+  762  cd /etc/resolvconf/resolv.conf.d/
+  763  sudo vi head
+  764  cd
+  765  sudo /etc/init.d/networking restart
+  766  sudo vi /etc/network/interfaces
+  767  ifconfig
+  768  ping www.google.com
+  769  sudo /etc/init.d/networking restart
+  770  sudo /etc/init.d/networking status
+  771  sudo vi /etc/hosts
+  772  sudo vi /etc/resolvconf/resolv.conf.d/head 
+  773  sudo /etc/init.d/networking restart
+  774  ping prasanna.bis.local
+  775  cat /etc/resolv.conf 
+  776  ping www.google.com
+  777  clear
+  778  sudo traceroute www.google.com
+  779  sudo traceroute 192.168.0.106
+  780  ping bis.local
+  781  ping prasanna.bis.local
+  782  sudo ping prasanna.bis.local
+  783  ping prasanna
+  784  sudo nmcli connection show 
+  785  nmcli device show wlp4s0 
+  786  vi /etc/resolv.conf 
+  787  sudo /etc/init.d/networking restart
+  788  ping prasanna.bis.local
+  789  ping 192.168.0.106
+  790  ping bis.local
+  791  ping router.bis.local
+  792  vi /etc/resolvconf/resolv.conf.d/head 
+  793  vi /etc/resolvconf/resolv.conf.d/base
+  794  sudo /etc/init.d/networking restart
+  795  ping 192.168.0.106
+  796  sudo ssh root@192.168.0.106
+  797  sudo ssh root@192.168.0.106
+  798  sudo ssh root@192.168.0.106
+  799  cd psgit/
+  800  ls
+  801  cd
+  802  ls
+  803  cd odoo
+  804  sudo mkdir odoo
+  805  sudo touch odoo1.html
+  806  ls
+  807  sudo mv odoo1.html odoo/
+  808  cd odoo
+  809  ls
+  810  clear
+  811  ls
+  812  sudo git init
+  813  sudo git config --global user.name "prasanna shah"
+  814  sudo git config --list
+  815  sudo git init
+  816  ls -a
+  817  sudo git status
+  818  sudo git add odoo1.html
+  819  sudo git status
+  820  sudo git commit -m "odoo1commit"
+  821  sudo git status
+  822  sudo git log
+  823  sudo git log > gitlog.txt
+  824  sudo git log --oneline
+  825  touch odoo2.html
+  826  sudo touch odoo2.html
+  827  history 
+  828  sudo git init
+  829  sudo git status
+  830  history 
+  831  sudo git add odoo2.html
+  832  sudo git commit -m "odoo2commit"
+  833  sudo git status
+  834  sudo git log
+  835  history 
+  836  sudo git log
+  837  history 
+  838  sudo git log --oneline
+  839  sudo echo "Hello world!" > odoo1.html 
+  840  sudo vi odoo1.html 
+  841  sudo git status
+  842  sudo git diff odoo1.html
+  843  sudo git add .
+  844  sudo git commit -m "its modified"
+  845  sudo git status
+  846  sudo git log
+  847  sudo git log --oneline
+  848  sudo git checkout 6f33bc1
+  849  cat odoo1.html 
+  850  sudo git checkout 7355a76
+  851  cat odoo1.html 
+  852  sudo git log
+  853  sudo git status
+  854  sudo git log
+  855  sudo git log --oneline
+  856  sudo git checkout 7355a76
+  857  cat odoo1.html 
+  858  ls
+  859  sudo git checkout 6f33bc1
+  860  ls
+  861  cat odoo1.html 
+  862  sudo git log
+  863  sudo git log --oneline
+  864  sudo git log --oneline > gitlog.txt
+  865  sudo touch ps.txt
+  866  ls
+  867  ls -a
+  868  sudo touch .gitignore
+  869  ls -a
+  870  sudo touch .gitignore.txt
+  871  ls -a
+  872  sudo rm .gitignore
+  873  sudo echo ".gitignore.txt" > .gitignore.txt
+  874  sudo vi .gitignore.txt 
+  875  sudo git add .
+  876  sudo git status
+  877  ls
+  878  ls -a
+  879  cat .gitignore.txt 
+  880  sudo vi .gitignore.txt 
+  881  sudo git add .
+  882  susdo git status
+  883  sudo git status
+  884  cat .gitignore.txt 
+  885  ls
+  886  ls -a
+  887  ls
+  888  ls -a
+  889  cat .gitignore.txt 
+  890  sudo vi .gitignore.txt 
+  891  sudo git add .
+  892  sudo git status
+  893  ls
+  894  ls -a
+  895  sudo rm .gitignore.txt 
+  896  sudo vi .gitignore
+  897  sudo git add .
+  898  sudo git status
+  899  sudo rm .gitignore 
+  900  git add .
+  901  ls -a
+  902  sudo rm ps.txt 
+  903  sudo touch ps.txt
+  904  sudo vi .gitignore
+  905  sudo git add .
+  906  sudo git status
+  907  cat .gitignore 
+  908  ls
+  909  ls -a
+  910  sudo vi ps.txt
+  911  sudo git add .
+  912  sudo git status
+  913  ls -a
+  914  cat .gitignore 
+  915  cat ps.txt
+  916  sudo add git .
+  917  sudo git add .
+  918  sudo git status
+  919  ls -a
+  920  sudo rm ps.txt
+  921  sudo rm .gitignore 
+  922  ls -a
+  923  sudo touch ps.txt
+  924  sudo touch .gitignore
+  925  ls -a
+  926  sudo git status
+  927  sudo vi .gitignore 
+  928  sudo git add .
+  929  sudo git status
+  930  sudo git commit -m "gitignore"
+  931  sudo git log
+  932  sudo git log --oneline
+  933  sudo git status
+  934  ls -a
+  935  sudo git branch
+  936  sudo git branch branch_system
+  937  sudo git branch
+  938  sudo git checkout branch_system
+  939  sudo git log
+  940  l s-a
+  941  ls -a
+  942  sudo touch system
+  943  ls
+  944  sudo git add .
+  945  sudo git commit -m "systemcommit"
+  946  sudo git log --oneline
+  947  sudo git branch
+  948  sudo git checkout master
+  949  sudo git branch
+  950  ls
+  951  sudo git checkout branch_system
+  952  ls
+  953  sudo git branch
+  954  sudo git checkout master
+  955  ls
+  956  sudo git branch
+  957  ls
+  958  sudo git remote add psrepo https://github.com/root-prasanna/psrepo.git
+  959  ls
+  960  sudo git remote
+  961  sudo git push -u root-prasanna branch_system
+  962  sudo git push -u root-prasanna master
+  963  sudo git push -u psrepo master
+  964  sudo git push -u psrepo branch_system
+  965  sudo git branch
+  966  cd
+  967  cd odoo
+  968  ls
+  969  sudo git-pull -u psrepo master
+  970  sudo git pull -u psrepo master
+  971  sudo git pull psrepo master
+  972  ls
+  973  cat odoo1.html 
+  974  sudo git clone https://github.com/root-prasanna/psrepo.git
+  975  ls
+  976  cd psrepo/
+  977  ls
+  978  cd ..
+  979  sudo git clone https://github.com/root-prasanna/psrepo.git
+  980  ls
+  981  sudo mkdir psrepo1
+  982  cd psrepo1
+  983  sudo git https://github.com/root-prasanna/psrepo.git
+  984  sudo git clone https://github.com/root-prasanna/psrepo.git
+  985  ls
+  986  cd psrepo/
+  987  ls
+  988  cd ..
+  989  sudo rm -r psrepo
+  990  ls
+  991  sudo git clone https://github.com/root-prasanna/psrepo.git
+  992  ls
+  993  cd psrepo/
+  994  ls
+  995  cd ..
+  996  cd psrepo
+  997  ls
+  998  cd ..
+  999  ls
+ 1000  cd psrepo1
+ 1001  ls
+ 1002  cd psrepo/
+ 1003  ls
+ 1004  cd ..
+ 1005  sudo rm -r psrepo/
+ 1006  ls
+ 1007  sudo git clone https://github.com/root-prasanna/psrepo.git/branch_master
+ 1008  cd ..
+ 1009  ls
+ 1010  sudo rm -r psrepo1
+ 1011  sudo git clone https://github.com/root-prasanna/psrepo.git/branch_system
+ 1012  ls
+ 1013  cd psrepo/
+ 1014  ls
+ 1015  cd ..
+ 1016  sudo git clone https://github.com/root-prasanna/psrepo.git branch_system
+ 1017  ls
+ 1018  cd branch_system/
+ 1019  ls
+ 1020  cd ..
+ 1021  sudo git clone https://github.com/root-prasanna/psrepo.git branch_system
+ 1022  ls
+ 1023  cd branch_system/
+ 1024  ls
+ 1025  cd ..
+ 1026  cd psrepo/
+ 1027  ls
+ 1028  cd ..
+ 1029  ls
+ 1030  sudo git checkout branch_system
+ 1031  sudo git branch
+ 1032  sudo git clone https://github.com/root-prasanna/psrepo.git branch_system
+ 1033  sudo rm branch_system
+ 1034  sudo rm -r branch_system
+ 1035  sudo git clone https://github.com/root-prasanna/psrepo.git branch_system
+ 1036  ls
+ 1037  cd branch_system/
+ 1038  ls
+ 1039  ls -a
+ 1040  cd /etc/resolvconf/
+ 1041  ls
+ 1042  cat interface-order 
+ 1043  cd
+ 1044  clear
+ 1045  ifconfig
+ 1046  sudo vi /etc/network/interfaces
+ 1047  ifconfig enp60
+ 1048  ifconfig enp6s0
+ 1049  sudo vi /etc/network/interfaces
+ 1050  sudo vi bookmarks
+ 1051  sudo /etc/init.d/networking restart
+ 1052  sudo systemctl restart networking
+ 1053  sudo /etc/init.d/networking restart
+ 1054  sudo vi /etc/network/interfaces
+ 1055  cd /etc/resolvconf/resolv.conf.d/
+ 1056  ls
+ 1057  sudo vi head
+ 1058  cd
+ 1059  sudo /etc/init.d/networking restart
+ 1060  sudo vi /etc/network/interfaces
+ 1061  sudo /etc/init.d/networking restart
+ 1062  ifconfig
+ 1063  sudo nmcli networking connectivity check 
+ 1064  cd Downloads/
+ 1065  ls
+ 1066  sudo dpkg -i code_1.12.1-1493934083_amd64.deb 
+ 1067  cd
+ 1068  sudo vi /etc/network/interfaces
+ 1069  sudo /etc/init.d/networking restart
+ 1070  ifconfig 
+ 1071  sudo vi /etc/network/interfaces
+ 1072  sudo /etc/init.d/networking restart
+ 1073  sudo systemctl status networking.service
+ 1074  sudo vi /etc/network/interfaces
+ 1075  sudo /etc/init.d/networking restart
+ 1076  sudo systemctl restart networking.service
+ 1077  sudo nmcli connection show --active 
+ 1078  sudo nmcli device show wlp4s0 
+ 1079  sudo nmcli connection add ifname eth0 con-name "test1" ip4 192.168.0.115/24 gw4 192.168.0.1 
+ 1080  sudo nmcli connection add type ethernet ifname eth0 con-name "test1" ip4 192.168.0.115/24 gw4 192.168.0.1
+ 1081  sudo nmcli connection show 
+ 1082  sudo nmcli connection up test1 
+ 1083  sudo nmcli connection add type ethernet ifname wlp4s0 con-name "test1" ip4 192.168.0.115/24 gw4 192.168.0.1
+ 1084  sudo nmcli connection show 
+ 1085  sudo nmcli connection up test1
+ 1086  sudo nmcli connection delete test1
+ 1087  sudo nmcli connection show 
+ 1088  sudo nmcli connection add type wifi ifname wlp4s0 con-name "test1" ip4 192.168.0.115/24 gw4 192.168.0.1
+ 1089  sudo nmcli connection add type wifi ifname wlp4s0 con-name "Connect to me 1" ip4 192.168.0.115/24 gw4 192.168.0.1
+ 1090  sudo nmcli connection add type wifi con-name "test1" ifname wlp4s0 ip4 192.168.0.115/24 gw4 192.168.0.1
+ 1091  sudo nmcli networking connectivity check 
+ 1092  sudo nmcli connection modify Connect\ to\ me\ 1 ipv4.addresses "192.168.0.115/24 192.168.0.1" ipv4.dns 192.168.0.1
+ 1093  sudo nmcli connection modify Connect\ to\ me\ 1 ipv4.addresses "192.168.0.115/24 192.168.0.1"
+ 1094  sudo nmcli connection modify Connect\ to\ me\ 1 ipv4.addresses '192.168.0.115/24 192.168.0.1'
+ 1095  sudo nmcli connection modify Connect\ to\ me\ 1 ipv4.addresses '192.168.0.115 192.168.0.1'
+ 1096  sudo nmcli connection modify Connect\ to\ me\ 1 ipv4.addresses '192.168.0.115/24'
+ 1097  ifconfig
+ 1098  sudo service restart network-manager
+ 1099  sudo nmcli connection show 
+ 1100  sudo nmcli device show wlp4s0 
+ 1101  sudo service status network
+ 1102  sudo service network-manager restart
+ 1103  sudo service network-manager status
+ 1104  ifconfig
+ 1105  ping www.google.com
+ 1106  sudo nmcli device show wlp4s0 
+ 1107  sudo nmcli connection modify "Connect to me 1" ipv4.dns 192.168.0.1
+ 1108  sudo nmcli device show wlp4s0 
+ 1109  sudo service network-manager restart
+ 1110  sudo nmcli device show wlp4s0 
+ 1111  sudo nmcli connection modify "Connect to me 1" -ipv4.addresses 192.168.0.109 
+ 1112  sudo nmcli device show wlp4s0 
+ 1113  sudo nmcli connection modify "Connect to me 1" -ipv4.addresses '192.168.0.109/24' 
+ 1114  ifconfig
+ 1115  cat /etc/network/interfaces
+ 1116  sudo nmcli device wifi list
+ 1117  sudo nmcli connection modify "Connect to me 1" -ipv4.addresses "192.168.0.109/24"
+ 1118  sudo nmcli connection modify "Connect to me 1" -ipv4.addresses 192.168.0.109/24
+ 1119  sudo nmcli device show wlp4s0 
+ 1120  sudo nmcli connection modify "Connect to me 1" -ipv4.addresses[2] "192.168.0.109/24"
+ 1121  ifconfig
+ 1122  ifconfig
+ 1123  ping 192.168.0.106
+ 1124  cd /etc/resolvconf/resolv.conf.d/
+ 1125  sudo vi head
+ 1126  cd
+ 1127  sudo nmcli device show wlp4s0 
+ 1128  ping prasanna.bis.local
+ 1129  sudo ssh root@192.168.0.106
+ 1130  sudo nmcli connection show 
+ 1131  sudo nmcli connection modify Collaborative ipv4.dns 192.168.0.106
+ 1132  sudo nmcli device show wlp4s0 
+ 1133  sudo nslookup prasanna.bis.local
+ 1134  sudo nslookup bis.local
+ 1135  ping bis.local
+ 1136  ping prasanna.bis.local
+ 1137  ifconfig
+ 1138  sudo nmcli connection modify Collaborative ipv4.addresses "192.168.0.100/24"
+ 1139  sudo service network-manager restart
+ 1140  ifconfig
+ 1141  sudo nmcli connection modify Collaborative ipv4.gateway "192.168.0.106"
+ 1142  sudo service network-manager restart
+ 1143  sudo nmcli device show wlp4s0 
+ 1144  sudo nslookup bis.local
+ 1145  ping bis.local
+ 1146  ping 192.168.0.106
+ 1147  ping bis.local
+ 1148  ping prasanna.bis.local
+ 1149  cat /etc/resolv.conf 
+ 1150  sudo vi /etc/resolv.conf 
+ 1151  sudo nslookup bis.local
+ 1152  ping prasanna.bis.local
+ 1153  ping bis.local
+ 1154  ping prasanna.bis.local
+ 1155  sudo /etc/init.d/networking restart
+ 1156  sudo nslookup prasanna.bis.local
+ 1157  sudo vi /etc/resolv.conf 
+ 1158  sudo nslookup prasanna.bis.local
+ 1159  ping prasanna.bis.local
+ 1160  sudo nslookup odoo.bis.local
+ 1161  ping odoo.bis.local
+ 1162  ping www.google.com
+ 1163  sudo nmcli connection modify Collaborative ipv4.gateway 192.168.0.1
+ 1164  sudo service network-manager restart
+ 1165  sudo nmcli device show wlp4s0 
+ 1166  sudo reboot
+ 1167  ifconfig
+ 1168  sudo nmcli device show wlp4s0 
+ 1169  sudo vi /etc/network/interfaces
+ 1170  sudo service network-manager restart
+ 1171  sudo reboot
+ 1172  ifconfig
+ 1173  sudo nmcli connection modify Collaborative ipv4.gateway 192.168.0.1
+ 1174  sudo service network-manager restart
+ 1175  sudo nmcli connection modify Collaborative ipv4.gateway 192.168.0.106
+ 1176  sudo service network-manager restart
+ 1177  sudo /etc/init.d/networking restart
+ 1178  sudo reboot
+ 1179  sudo nmcli connection modify Collaborative ipv4.gateway 192.168.0.106
+ 1180  sudo service network-manager restart
+ 1181  sudo vi /etc/network/interfaces
+ 1182  sudo /etc/init.d/networking restart
+ 1183  sudo vi /etc/resolv.conf 
+ 1184  sudo vi /etc/NetworkManager/
+ 1185  cd /etc/NetworkManager/
+ 1186  ls
+ 1187  cat NetworkManager.conf 
+ 1188  cd
+ 1189  sudo service network-manager restart
+ 1190  sudo nmcli connection show 
+ 1191  sudo nmcli connection up Collaborative
+ 1192  sudo nmcli connection modify Collaborative -ipv4.addresses 192.168.0.100
+ 1193  sudo service network-manager stop
+ 1194  sudo reboot
+ 1195  sudo nmcli connection show 
+ 1196  sudo nmcli connection up Collaborative
+ 1197  clear
+ 1198  ls
+ 1199  ifconfig
+ 1200  ping 192.168.0.106
+ 1201  sudo unetbootin
+ 1202  sudo apt-get install unetbootin
+ 1203  sudo unetbootin
+ 1204  df -h
+ 1205  sudo umount /dev/sdb2
+ 1206  df -h
+ 1207  sudo mount /dev/sdb2 /mnt
+ 1208  df -h
+ 1209  sudo unetbootin
+ 1210  df -h
+ 1211  sudo fdisk -l
+ 1212  sudo mkdir mntusb
+ 1213  sudo mkdir /mntusb
+ 1214  sudo mount /dev/sdb2 /mntusb
+ 1215  df -h
+ 1216  df -h
+ 1217  sudo fdisk -l
+ 1218  sudo fdisk /dev/sdc
+ 1219  sudo partprobe /dev/sdc
+ 1220  sudo fdisk -l
+ 1221  sudo mkfs.ext4 /dev/sdc1
+ 1222  sudo fdisk -l
+ 1223  df -h
+ 1224  sudo mount /dev/sdc1 /mnt
+ 1225  df -h
+ 1226  ping prasanna.bis.local
+ 1227  cd /mnt
+ 1228  ls
+ 1229  cd
+ 1230  sudo fdisk -l
+ 1231  sudo fdisk /dev/sdd
+ 1232  sudo host odoo.bis.local
+ 1233  sudo nslookup odoo.bis.local
+ 1234  sudo host prasanna.bis.local
+ 1235  sudo nslookup prasanna.bis.local
+ 1236  ping prasanna.bis.local
+ 1237  sudo ssh root@192.168.0.106
+ 1238  sudo service network-manager status
+ 1239  sudo service network-manager restart
+ 1240  sudo nmcli connection up Collaborative
+ 1241  ifconfig
+ 1242  sudo nmcli device show wlp4s0 
+ 1243  ping www.google.com
+ 1244  sudo vi /etc/resolv.conf 
+ 1245  ping www.google.com
+ 1246  sudo nmcli connection modify Collaborative +ipv4.gateway 192.168.0.1
+ 1247  ping www.google.com
+ 1248  sudo nmcli device show wlp4s0 
+ 1249  sudo service network-manager restart
+ 1250  sudo service network-manager status
+ 1251  sudo nmcli connection modify Collaborative -ipv4.gateway 192.168.0.106
+ 1252  sudo nmcli connection modify Collaborative ipv4.gateway 192.168.0.1
+ 1253  sudo service network-manager restart
+ 1254  sudo nmcli connection show 
+ 1255  sudo nmcli connection up Collaborative
+ 1256  sudo nmcli device wifi list
+ 1257  sudo vi /etc/resolv.conf 
+ 1258  ping www.google.com
+ 1259  sudo nmcli device show 
+ 1260  sudo nslookup bis.local
+ 1261  sudo vi /etc/resolv.conf 
+ 1262  sudo nslookup bis.local
+ 1263  sudo nslookup prasanna.bis.local
+ 1264  ping prasanna.bis.local
+ 1265  sudo host bis.local
+ 1266  sudo host prasanna.bis.local
+ 1267  cat /etc/resolv.conf 
+ 1268  vi /etc/resolv.conf 
+ 1269  sudo vi /etc/resolv.conf 
+ 1270  sudo host prasanna.bis.local
+ 1271  ping prasanna.bis.local
+ 1272  sudo nslookup prasanna.bis.local
+ 1273  sudo host odoo.bis.local
+ 1274  sudo vi /etc/bash.bashrc 
+ 1275  exit
+ 1276  sudo vi /etc/bash.bashrc 
+ 1277  exit
+ 1278  sudo vi /etc/bash.bashrc 
+ 1279  exit
+ 1280  sudo vi /etc/bash.bashrc 
+ 1281  exit
+ 1282  sudo fdisk -l
+ 1283  sudo fdisk /dev/sdb
+ 1284  sudo partprobe /dev/sdb
+ 1285  sudo fdisk -l
+ 1286  sudo fdisk -
+ 1287  sudo fdisk -l
+ 1288  sudo fdisk /dev/sdb
+ 1289  sudo fdisk -l
+ 1290  sudo partprobe /dev/sdb
+ 1291  df -h
+ 1292  cd /media/prasanna/NEW\ VOLUME/
+ 1293  ls
+ 1294  ls -a
+ 1295  sudo rm -r .Trash-1000/
+ 1296  ls -a
+ 1297  cd
+ 1298  df -h
+ 1299  cd /media/prasanna/UsbDriverSetup/
+ 1300  ls
+ 1301  cd
+ 1302  sudo apt-get update
+ 1303  sudo apt-get install libmtp
+ 1304  ls
+ 1305  cd psgit/
+ 1306  ls
+ 1307  sudo git branch
+ 1308  cd
+ 1309  ls
+ 1310  cd odoo
+ 1311  ls
+ 1312  sudo git branch
+ 1313  ls
+ 1314  cd
+ 1315  ls
+ 1316  ls | less
+ 1317  sudo mv bookmarks odoo
+ 1318  cd odoo
+ 1319  ls
+ 1320  sudo git status
+ 1321  sudo git branch
+ 1322  sudo git log
+ 1323  sudo git init
+ 1324  sudo git add .
+ 1325  sudo git commit
+ 1326  sudo git status
+ 1327  ls
+ 1328  history 
+ 1329  history > myhist.txt
+ 1330  sudo history > myhist.txt
+ 1331  cd
+ 1332  sudo history > myhist.txt
+ 1333  history > myhist.txt
